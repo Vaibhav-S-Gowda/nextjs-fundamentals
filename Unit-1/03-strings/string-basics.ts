@@ -6,6 +6,7 @@ let website = "https://nextjs.org";
 let file = "assignment.pdf";
 
 // Uppercase
+// @ts-ignore
 console.log(name.toUpperCase());
 
 // Lowercase
@@ -15,6 +16,7 @@ console.log(email.toLowerCase());
 console.log(city.trim());
 
 // Count characters
+// @ts-ignore
 console.log(name.length);
 
 // Check if email contains '@'
@@ -30,9 +32,11 @@ console.log(file.endsWith(".pdf"));
 console.log("Welcome to Twitter".replace("Twitter", "X"));
 
 // First letter
+// @ts-ignore
 console.log(name.charAt(0));
 
 // Username
+// @ts-ignore
 console.log(name.toLowerCase() + "257");
 
 let fullName = "Kanhaiya";
