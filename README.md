@@ -4,7 +4,7 @@
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 WAF II/
@@ -25,7 +25,7 @@ WAF II/
 
 ---
 
-## 🧩 Curriculum Modules
+## Curriculum Modules
 
 ### Unit 1 — Foundations & Core Concepts
 
@@ -79,40 +79,7 @@ Comprehensive Next.js application demonstrating:
 
 ---
 
-## 🚀 Getting Started
-
-### Running Next.js Applications
-
-Navigate into any Next.js app folder (e.g., `Unit-2/dynamic-routes`):
-
-```bash
-# Navigate to project folder
-cd Unit-2/dynamic-routes
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### Running TypeScript Programs
-
-```bash
-cd Unit-1/assignment-01
-
-# Execute directly using ts-node
-npx ts-node 01-area-rectangle.ts
-
-# Or compile with tsc and run with node
-tsc 01-area-rectangle.ts && node 01-area-rectangle.js
-```
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -124,7 +91,4 @@ tsc 01-area-rectangle.ts && node 01-area-rectangle.js
 
 ---
 
-## 📄 License
-
-Maintained for educational purposes as part of the **Web Application Frameworks II (MCA SEM III)** coursework.
 
