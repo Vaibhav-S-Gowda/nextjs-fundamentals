@@ -1,0 +1,19 @@
+.pass {
+    color: rgb(0, 255, 170);
+}
+
+.pass:hover {
+    color: brown;
+}
+
+.pass:active {
+    color: burlywood;
+}
+
+.fail {
+    color: red;
+}
+
+.fail:hover {
+    color: crimson;
+}
